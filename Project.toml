@@ -1,6 +1,6 @@
 name = "ZlibNG_jll"
 uuid = "c62bbaca-5768-5b75-85e2-9a0ea54e1624"
-version = "2.2.3+0"
+version = "2.2.4+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

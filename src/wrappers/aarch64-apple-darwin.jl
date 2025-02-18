@@ -7,7 +7,7 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libzng,
-        "lib/libz-ng.2.2.3.dylib",
+        "lib/libz-ng.2.2.4.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
