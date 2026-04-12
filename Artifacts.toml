@@ -1,112 +1,112 @@
 [[ZlibNG]]
 arch = "aarch64"
-git-tree-sha1 = "ae5b10aa6f8f08b820929895a0433af83db70703"
+git-tree-sha1 = "f9c46eab9a879c07a6fa4577ba8c5c2056556765"
 os = "macos"
 
     [[ZlibNG.download]]
-    sha256 = "aeb522fdcdde5a3885f438be55d3e857c0b3265fe8251a96f417d4295fe80dc5"
-    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+0/ZlibNG.v2.3.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "390bebd1398c6d037693c20efa7e66282b4dfbb8fbff28de646ba82fb1d022cb"
+    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+1/ZlibNG.v2.3.3.aarch64-apple-darwin.tar.gz"
 [[ZlibNG]]
 arch = "aarch64"
-git-tree-sha1 = "ebb42ecb51440a720f8cb617c02db2a62e5ed437"
+git-tree-sha1 = "801f810a3a67828f881665a9308c8504cb267624"
 libc = "glibc"
 os = "linux"
 
     [[ZlibNG.download]]
-    sha256 = "007cdfa1b7f0126b8414f27771724725f076c8ef91ddf595be5eb0a16acab08b"
-    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+0/ZlibNG.v2.3.3.aarch64-linux-gnu.tar.gz"
+    sha256 = "04b628854027604bb4602963b1df4eb82d4d2fc94704e76f6afd77c4b98541c5"
+    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+1/ZlibNG.v2.3.3.aarch64-linux-gnu.tar.gz"
 [[ZlibNG]]
 arch = "aarch64"
-git-tree-sha1 = "62331f04a5af633ffb120b87ea28c2dbeb590a90"
+git-tree-sha1 = "05eb2f4da338816ec694152f573d00bc78869cfc"
 libc = "musl"
 os = "linux"
 
     [[ZlibNG.download]]
-    sha256 = "9ce65b6a72171fea15412484d7732ae5baf277d2d10e4fe23144321bbe1b5709"
-    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+0/ZlibNG.v2.3.3.aarch64-linux-musl.tar.gz"
+    sha256 = "7d6e7be676c7a95f9ffe8c428c02a813e5a095d3b37e3458417fe5c328739f1b"
+    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+1/ZlibNG.v2.3.3.aarch64-linux-musl.tar.gz"
 [[ZlibNG]]
 arch = "aarch64"
-git-tree-sha1 = "a8dbe8bd1e1e914cc9bd3db1f483f2c3c78f7c81"
+git-tree-sha1 = "eaef288673f6b0ae8c6acfc93951ec8969fb22ab"
 os = "freebsd"
 
     [[ZlibNG.download]]
-    sha256 = "0aec308cf4e812434a4c6a09515d54fb5076889dd136d28a84aeb4a9421b2caf"
-    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+0/ZlibNG.v2.3.3.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "2b953a95f7fbb799552fbea84b33f812a66f5a7966a1f781dd18800bd6983a9e"
+    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+1/ZlibNG.v2.3.3.aarch64-unknown-freebsd.tar.gz"
 [[ZlibNG]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "bad0971ac0fffa1e95f5bca85f0b612ce8193d19"
+git-tree-sha1 = "b268cabcdd8e3e93ed5365eb3ba1f80902c38970"
 libc = "glibc"
 os = "linux"
 
     [[ZlibNG.download]]
-    sha256 = "610bf1c0e33f8258976bb5813651bf692ea9462a5e5f87be6e96a7628707ce08"
-    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+0/ZlibNG.v2.3.3.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "4457833cbe6b9b08ee454b3e45c34de144c9b017e500150389523444a4cfa971"
+    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+1/ZlibNG.v2.3.3.armv6l-linux-gnueabihf.tar.gz"
 [[ZlibNG]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8e9510023da3780b6ae95a2104c9d26d55a6c7e2"
+git-tree-sha1 = "e84edcd415191e1b5f5a428e7b84dd51ec97586a"
 libc = "musl"
 os = "linux"
 
     [[ZlibNG.download]]
-    sha256 = "8452ae85ab0fbdf9c77635a6cf657665c4983cfd8aa9d935d544470b928c8484"
-    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+0/ZlibNG.v2.3.3.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "f7a85ecd8cce139cd5639f12be54813537320cbac7ad9fd6daf70b60c4c2464d"
+    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+1/ZlibNG.v2.3.3.armv6l-linux-musleabihf.tar.gz"
 [[ZlibNG]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "e100f648af0d88310032d4f338a079949fc4bc58"
+git-tree-sha1 = "4696a71b12046f67a22d4022038a5ea1500cd674"
 libc = "glibc"
 os = "linux"
 
     [[ZlibNG.download]]
-    sha256 = "a777bdd75119b8487b680b8cf7322265f93ff23d1b8e99f5fd9292aac6d88231"
-    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+0/ZlibNG.v2.3.3.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "ab3ba7186def17ef57dcd72f5fc159ee6d6cdd87ac21a977e4870e64d940ccc3"
+    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+1/ZlibNG.v2.3.3.armv7l-linux-gnueabihf.tar.gz"
 [[ZlibNG]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "e81b69db1ed4e66896936d3ffaae5c24c2950f2f"
+git-tree-sha1 = "9ab929ee0e2fe9314eab43529bfd0db9ec5ac045"
 libc = "musl"
 os = "linux"
 
     [[ZlibNG.download]]
-    sha256 = "46982044692cd94c83e7e95d6c859d23a7d6cbb8cc7c938dde748e1fa001ad70"
-    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+0/ZlibNG.v2.3.3.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "189950d586611b1225fa7aaebab60c16eec270c095c510a1bb1c2358ab9d4d0c"
+    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+1/ZlibNG.v2.3.3.armv7l-linux-musleabihf.tar.gz"
 [[ZlibNG]]
 arch = "i686"
-git-tree-sha1 = "53e165833d09b32690621723a445c323ffbe6b9d"
+git-tree-sha1 = "9c597c3486dd4e507818da1392737559287b7676"
 libc = "glibc"
 os = "linux"
 
     [[ZlibNG.download]]
-    sha256 = "9c2840b848d1cb7a65367fc3d36a0eef3ab005f054a6453160244298cfd5f8c9"
-    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+0/ZlibNG.v2.3.3.i686-linux-gnu.tar.gz"
+    sha256 = "be9ae26755e5f4b52e5186255395f62d98e62041e138c65b921bee3c28b08924"
+    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+1/ZlibNG.v2.3.3.i686-linux-gnu.tar.gz"
 [[ZlibNG]]
 arch = "i686"
-git-tree-sha1 = "44b17be1e5d801c0204d11350b16c106fb6af10a"
+git-tree-sha1 = "22913a20035492b8184ec9faf883cb89585fe5f8"
 libc = "musl"
 os = "linux"
 
     [[ZlibNG.download]]
-    sha256 = "db3d081999ea83cab0964d39780c8c46306a5de8927c3e56d9c15371193b2b66"
-    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+0/ZlibNG.v2.3.3.i686-linux-musl.tar.gz"
+    sha256 = "648c670a0fc78c228bfd54de37f7df4f1f947418bb41ba37ffb35213a6a5bc50"
+    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+1/ZlibNG.v2.3.3.i686-linux-musl.tar.gz"
 [[ZlibNG]]
 arch = "i686"
-git-tree-sha1 = "728b3c1893227c110a4ade53cefd6270bb34ad97"
+git-tree-sha1 = "ee94361bea829561b7ec80b4f462f64aaa078271"
 os = "windows"
 
     [[ZlibNG.download]]
-    sha256 = "fbb26e4d98cc15e7b569b477607d5686ddddd55b2bb4c4d1be5fff8e9a4c61ad"
-    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+0/ZlibNG.v2.3.3.i686-w64-mingw32.tar.gz"
+    sha256 = "68c1be58d5a694997c77d54ca599e88276245bf1c51ffa8a11a6f22f89718367"
+    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+1/ZlibNG.v2.3.3.i686-w64-mingw32.tar.gz"
 [[ZlibNG]]
 arch = "powerpc64le"
-git-tree-sha1 = "4ae2cadd489956332587eeb7bcaf074c909e6e19"
+git-tree-sha1 = "30eb1f808894ff8a3436bdf85e3ef1d7ba29ec65"
 libc = "glibc"
 os = "linux"
 
     [[ZlibNG.download]]
-    sha256 = "c195828f4aad8555c8a7ec0c248f1f72abd6845b542d75271bcac8f5bbe5bc77"
-    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+0/ZlibNG.v2.3.3.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "a8a07506eac101c7e24e329f81d7e1f47e1a4e163f3a9770b8e035c10f1e814b"
+    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+1/ZlibNG.v2.3.3.powerpc64le-linux-gnu.tar.gz"
 [[ZlibNG]]
 arch = "riscv64"
 git-tree-sha1 = "52673c12bd1422a329d48004891e859e99fff596"
@@ -115,33 +115,33 @@ os = "linux"
 
     [[ZlibNG.download]]
     sha256 = "16f908b7f872b9834794c1bf848e6e550a82cfe4ce4686afe52a3875bc4e653e"
-    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+0/ZlibNG.v2.3.3.riscv64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+1/ZlibNG.v2.3.3.riscv64-linux-gnu.tar.gz"
 [[ZlibNG]]
 arch = "x86_64"
-git-tree-sha1 = "74fb95be113cfa8538b9a60d30522d4217467847"
+git-tree-sha1 = "1bae706cd7fda3510aa28f17e7aa60253d595816"
 os = "macos"
 
     [[ZlibNG.download]]
-    sha256 = "60e52a662ae6add43db13f653ad1744b8302e997ab38f9fe05553ce1ccd4f28a"
-    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+0/ZlibNG.v2.3.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "889015a25318aa0de772f28068fc2700e4656141d1c06c22aaa811c3c3e0b342"
+    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+1/ZlibNG.v2.3.3.x86_64-apple-darwin.tar.gz"
 [[ZlibNG]]
 arch = "x86_64"
-git-tree-sha1 = "320ffb309086b816183e66dc98b4a988eafdf05f"
+git-tree-sha1 = "cabdac7a39aa978bf42ff6bb2ace07ffb42cbd6b"
 libc = "glibc"
 os = "linux"
 
     [[ZlibNG.download]]
-    sha256 = "d66ffd6339f719b0ad5d3d28d14b5ed3093f82758a6f925c9953d420b9e70edf"
-    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+0/ZlibNG.v2.3.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "71817ad29672d9a9550e8368d8c06fadc47dd71344d2e121b5510ee11bd3faed"
+    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+1/ZlibNG.v2.3.3.x86_64-linux-gnu.tar.gz"
 [[ZlibNG]]
 arch = "x86_64"
-git-tree-sha1 = "0846cb847bbc624ba6aec71de2f7d4f3e3f0f25c"
+git-tree-sha1 = "c2fc4e654ecea9e0437bd2ff5383f5bc03e4437a"
 libc = "musl"
 os = "linux"
 
     [[ZlibNG.download]]
-    sha256 = "1697995ce055aca095a5b8adb53945bc04141f6736cbfb5eb4f0dd2d73bf5e35"
-    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+0/ZlibNG.v2.3.3.x86_64-linux-musl.tar.gz"
+    sha256 = "8c64242069b9a52faa32fdea70118507a54f12d598220225e52e85bfd145f0ca"
+    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+1/ZlibNG.v2.3.3.x86_64-linux-musl.tar.gz"
 [[ZlibNG]]
 arch = "x86_64"
 git-tree-sha1 = "6f19466b77b52baf8a535e92621bd296baf9141b"
@@ -149,12 +149,12 @@ os = "freebsd"
 
     [[ZlibNG.download]]
     sha256 = "55f1dfe42601c92e25955ec7634a15ccbfbea1d0f362003c464eb6c1d0f67280"
-    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+0/ZlibNG.v2.3.3.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+1/ZlibNG.v2.3.3.x86_64-unknown-freebsd.tar.gz"
 [[ZlibNG]]
 arch = "x86_64"
-git-tree-sha1 = "e0f934a4679bffb043e20307de8717fdc3b2cd93"
+git-tree-sha1 = "c68a3ab656fbb8d87a7575e9422e5be975c1f6ab"
 os = "windows"
 
     [[ZlibNG.download]]
-    sha256 = "fc03d992672bd1c22e71f8128b6570c7ce4d6e6e2d81fd6896ecfdbc7d4a8efa"
-    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+0/ZlibNG.v2.3.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "807b65d84244af05178a3b87a3a63d832b1c014fff77d89eaea7cce1150b97e6"
+    url = "https://github.com/JuliaBinaryWrappers/ZlibNG_jll.jl/releases/download/ZlibNG-v2.3.3+1/ZlibNG.v2.3.3.x86_64-w64-mingw32.tar.gz"
